@@ -1,0 +1,69 @@
+@import "jekyll-theme-minimal";
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  /* 
+  
+    Nav Bar
+  
+  */
+
+  nav {
+      display: flex;
+      flex-direction: column;
+  }
+
+  button {
+      background-color: #461447;
+      padding: 1rem;
+      border: none;
+      border-radius: 3rem;
+      width: 50%;
+  }
+
+  button:hover {
+      background-color: rgba(70, 20, 70, .75);
+  }
+
+  button a {
+      color: white !important
+  }
+
+  button a:hover {
+      text-decoration: none !important;
+      font-weight: 100;
+  }
+
+
+  nav a {
+      color: #F76902;
+      margin: 1em 0;
+  }
+
+  nav a:hover {
+      text-decoration: underline;
+      color: #F76902;
+      font-weight: 100;
+  }
+
+  /* 
+  
+    Main Styling
+  
+  */
+
+  h1 {
+      color: #F76902;
+  }
+
+  .intextLink {
+      color: #F76902;
+  }
+
+  .intextLink:hover {
+      color: #F76902;
+      text-decoration: underline;
+      font-weight: 100;
+  }

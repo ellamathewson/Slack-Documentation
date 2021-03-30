@@ -28,6 +28,21 @@ In comparison to email, Slack has a lot of features that email cannot do, includ
 * Quick video conferencing, including Zoom integration, if a channel thread or a DM becomes a "can we have a quick conversation about this?"
 * Creating workspaces or channels for cross-unit groups -- for instance a MAGIC research group that might have participants from multiple departments
 
+### Slack vs Discord
+In comparison to Discord, Slack provides numerous features that Discord does not, including:
+* Identity verification and security using RIT accounts
+* Integration with RIT course lists
+* Threaded replies
+
+### Privacy and Security
+Slack is secure in that all direct messages between users and discussions in private channels are visable only by the participants. RIT has no access to that information. Slack maintains an archive of all content, but accessing that requires legal authority, and is handled by a third party company. As a result, Slack communication provides significantly more privacy than RIT email
+
+# How Slack Works
+Slack provides excellent documentation covering the basics of how to navigate a Slack workspace.
+
+[If you prefer to read about the basics](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)
+
+[If you prefer to watch videos showing the basics](https://slack.com/help/articles/360059976673-Slack-tutorial--Videos-for-how-to-use-Slack)
 
 # Who Can Use It?
 

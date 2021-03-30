@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    background: none;
+}
+
+section {
+    border: none;
+    background: none;
+}
+
+#banner {
+    background: white;
+    display: none;
+}
+
+header {
+    background: none;
+    background-color: #F76902;
+    box-shadow: none;
+}
+
+header h1, header p {
+    text-shadow: none;
+    color: white;
+}
+

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Index
-permalink: /
+permalink: /index/
 ---
 
 # What is Slack?
